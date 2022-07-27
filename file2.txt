@@ -1,1 +1,2 @@
 added file2 in github
+another line added through terminal
